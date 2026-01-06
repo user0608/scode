@@ -1,4 +1,4 @@
-module scode
+module github.com/user0608/scode
 
 go 1.25.1
 

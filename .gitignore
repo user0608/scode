@@ -1,0 +1,35 @@
+# Binarios
+/bin/
+/scode
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Archivos de build
+*.out
+*.test
+
+# Go
+/go.work
+/go.work.sum
+
+# Dependencias
+/vendor/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Config local
+config.yaml
